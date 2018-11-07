@@ -10,5 +10,5 @@ Le but de ce projet est de permettre une approche globale de la matière Cloud C
 *Il n y a pas une interface pour l'application.
 *Synchronisation de plusieurs demandes,utulise les threads.
 *2 Type de conversions.
-*Langage utulisé est java avec la plate forme J2EE.
+*Langage utilisé est java avec la plate forme J2EE.
 
