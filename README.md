@@ -17,5 +17,11 @@
 + Il n y a pas une interface pour l'application.
 + Synchronisation de plusieurs demandes,utulise les threads.
 + 2 Type de conversions.
-+ Langage utilisé est java avec la plate forme J2EE.
++ Langage utilisé est java avec la plateforme J2EE.
+
+-##1# L'Arcchitecture globale de l'application:
++Plateforme utilisé est J2EE.
++MVC utilisant des servlets.
++serveur utilisé est Apache-Tomcat.
+
 
