@@ -36,6 +36,7 @@ et un lien vers une page résumant le statut de chaque conversion (en attente, e
 ##  L'Arcchitecture globale de l'application: #
 
  1)- *Plateforme utilisé est J2EE (Enterprise Edition):*
+ 
 <p> J2EE est une spécification pour la plate-forme Java d'Oracle, destinée aux applications d'entreprise2. 
   La plate-forme étend Java Platform, Standard Edition (Java SE) en fournissant une API de mapping objet-relationnel, des architectures distribuées et multitiers, et des services web3. La plate-forme se fonde principalement sur des composants modulaires exécutés sur un serveur d'applications. 
   Pour ce faire, Java EE définit les éléments suivants :
@@ -44,6 +45,30 @@ et un lien vers une page résumant le statut de chaque conversion (en attente, e
    + Une réalisation de référence (Java EE Reference Implementation), dénommée GlassFish ;
    + Un catalogue de bonnes pratiques (Java EE BluePrints) ;
    + Un code script. </p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
  2)- *MVC utilisant des servlets.*
