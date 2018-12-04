@@ -48,8 +48,8 @@ et un lien vers une page résumant le statut de chaque conversion (en attente, e
    + Un catalogue de bonnes pratiques (Java EE BluePrints).
    + Un code script. 
  <p> Il exist des ensemble des framework j2ee donc ensemble des bibliothèques qui sont structuré en MVC par exemple on a
-  JSF,STRUTS,SPRING,HIBERNAT.
-  dans ce mini projet on va utilise le Spring. </p>
+  JSF,STRUTS,SPRING,HIBERNAT.</p>
+  dans ce mini projet on va utilise le Spring. 
   
  2)- *MVC (Modèle-vue-contrôleur):*
  <p> est un motif d'architecture logicielle destiné aux interfaces graphiques lancé en 1978 et très populaire pour les applications web. Le motif est composé de trois types de modules ayant trois responsabilités différentes : les modèles, les vues et les contrôleurs.</p>
@@ -61,7 +61,7 @@ le visiteur qui envoi sa requéte HTTP transmie a le serveur application qui lui
  en général le contrôleur va appelé le modèle qui contient les informations strécturée de ne donnée qui va notament fais des calcules, se modèle peut envoyer les informations au contrôleur qui peut en suit générer une page web donc une vue.
  la vue représente en réalité a ce que le visiteur on va voir en final, et c bien la vue qui va envoyer a le visiteur.
 </p>
- ##  Modèle:  #
+ ## Modèle:  #
  
  <p> Élément qui contient les données ainsi que de la logique en rapport avec les données: validation, lecture et enregistrement.
   on appel les objet java, peut etre a communicer a une base de donnée pour stocker les informations et garder en mémoire le plus tempe possible. </p>
@@ -77,8 +77,7 @@ donc en va appelé une servlet.
   cette vue et donc retournée par le controleur au visiteur. </p>
 
  
- 
- 
-+ Serveur utilisé est Apache-Tomcat.
+3)- *Serveur utilisé est Apache-Tomcat:*
+
 
 
