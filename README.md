@@ -47,18 +47,35 @@ et un lien vers une page résumant le statut de chaque conversion (en attente, e
    + Une réalisation de référence (Java EE Reference Implementation), dénommée GlassFish.
    + Un catalogue de bonnes pratiques (Java EE BluePrints).
    + Un code script. 
- 
+ <p> Il exist des ensemble des framework j2ee donc ensemble des bibliothèques qui sont structuré en MVC par exemple on a
+  JSF,STRUTS,SPRING,HIBERNAT.
+  dans ce mini projet on va utilise le Spring. </p>
   
  2)- *MVC (Modèle-vue-contrôleur):*
  <p> est un motif d'architecture logicielle destiné aux interfaces graphiques lancé en 1978 et très populaire pour les applications web. Le motif est composé de trois types de modules ayant trois responsabilités différentes : les modèles, les vues et les contrôleurs.</p>
  Description:
- <p> Une application conforme au motif MVC comporte trois types de modules : les modèles, les vues et les contrôleurs. </p>
+ <p> Une application conforme au motif MVC comporte trois types de modules : les modèles, les vues et les contrôleurs.
+  
+le visiteur qui envoi sa requéte HTTP transmie a le serveur application qui lui va transmie directement a la partie code,
+ donc le contrôleur est une partie de code qui se compter de faire l'aiguillage de l'information c'est a dire le routage de l'information, il va décidée qui va récupirer l'information et ensuit la traitée.
+ en général le contrôleur va appelé le modèle qui contient les informations strécturée de ne donnée qui va notament fais des calcules, se modèle peut envoyer les informations au contrôleur qui peut en suit générer une page web donc une vue.
+ la vue représente en réalité a ce que le visiteur on va voir en final, et c bien la vue qui va envoyer a le visiteur.
+</p>
  ##  Modèle:  #
  
- 
- 
- 
- 
+ <p> Élément qui contient les données ainsi que de la logique en rapport avec les données: validation, lecture et enregistrement.
+  on appel les objet java, peut etre a communicer a une base de donnée pour stocker les informations et garder en mémoire le plus tempe possible. </p>
+  
+ ## Contrôleur:  #
+ <p> Module qui traite les actions de l'utilisateur, modifie les données du modèle et de la vue.
+donc en va appelé une servlet.
+</p>
+
+## vue:  #
+<p> Partie visible d'une interface graphique,  Une vue contient des éléments visuels ainsi que la logique nécessaire pour afficher les données provenant du modèle.
+  on appel les pages JSP qui on en réalité des pages qui uilisé le code HTML et du code spécifique en générale en java,
+  cette vue et donc retournée par le controleur au visiteur. </p>
+
  
  
  
