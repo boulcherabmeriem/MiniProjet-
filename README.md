@@ -1,6 +1,6 @@
-### MiniProjet #
+## MiniProjet #
 
-### Réaliser par: #
+## Réaliser par: #
 
 *Chaachoua Anis*
 
@@ -59,7 +59,11 @@ et un lien vers une page résumant le statut de chaque conversion (en attente, e
   
  2)- *MVC (Modèle-vue-contrôleur):*
  <p> est un motif d'architecture logicielle destiné aux interfaces graphiques lancé en 1978 et très populaire pour les applications web. Le motif est composé de trois types de modules ayant trois responsabilités différentes : les modèles, les vues et les contrôleurs.</p>
- Description:
+ 
+ ![modelemvc](https://user-images.githubusercontent.com/44198183/49478412-00270800-f820-11e8-80cd-1fbf50b40f99.png)
+ 
++ Description:
+
  <p> Une application conforme au motif MVC comporte trois types de modules : les modèles, les vues et les contrôleurs.
   
 le visiteur qui envoi sa requéte HTTP transmie a le serveur application qui lui va transmie directement a la partie code,
