@@ -90,7 +90,8 @@ donc en va appelé une servlet.
   cette vue et donc retournée par le controleur au visiteur. </p>
 
  
-3)- *Serveur utilisé est Apache-Tomcat:*
+3)- * Apache-Tomcat:*
+<p> Est un conteneur web libre de servlets et JSP Java EE. Issu du projet Jakarta, c'est un des nombreux projets de l’Apache Software Foundation. Il implémente les spécifications des servlets et des JSP du Java Community Process6, est paramétrable par des fichiers XML et des propriétés, et inclut des outils pour la configuration et la gestion. Il comporte également un serveur HTTP.</p>
 
 
 
