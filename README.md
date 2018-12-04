@@ -68,7 +68,7 @@ le visiteur qui envoi sa requéte HTTP transmie a le serveur application qui lui
  la vue représente en réalité a ce que le visiteur on va voir en final, et c bien la vue qui va envoyer a le visiteur.
 </p>
   
-  
+  ![capture2](https://user-images.githubusercontent.com/44198183/49478285-a7576f80-f81f-11e8-8578-e17990440d85.PNG)
   
   ## Modèle:  #
  
