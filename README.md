@@ -47,6 +47,12 @@ et un lien vers une page résumant le statut de chaque conversion (en attente, e
    + Une réalisation de référence (Java EE Reference Implementation), dénommée GlassFish.
    + Un catalogue de bonnes pratiques (Java EE BluePrints).
    + Un code script. 
+   
+   ![java_platforms](https://user-images.githubusercontent.com/44198183/49477991-dfaa7e00-f81e-11e8-9a16-fa9a2c79ba04.PNG)
+   
+   
+   
+   
  <p> Il exist des ensemble des framework j2ee donc ensemble des bibliothèques qui sont structuré en MVC par exemple on a
   JSF,STRUTS,SPRING,HIBERNAT.</p>
   dans ce mini projet on va utilise le Spring. 
@@ -61,6 +67,9 @@ le visiteur qui envoi sa requéte HTTP transmie a le serveur application qui lui
  en général le contrôleur va appelé le modèle qui contient les informations strécturée de ne donnée qui va notament fais des calcules, se modèle peut envoyer les informations au contrôleur qui peut en suit générer une page web donc une vue.
  la vue représente en réalité a ce que le visiteur on va voir en final, et c bien la vue qui va envoyer a le visiteur.
 </p>
+  
+  
+  
   ## Modèle:  #
  
  <p> Élément qui contient les données ainsi que de la logique en rapport avec les données: validation, lecture et enregistrement.
